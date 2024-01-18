@@ -13,15 +13,17 @@ An Angular package for entering and validating international telephone numbers. 
 Validation with [google-libphonenumber](https://github.com/ruimarinho/google-libphonenumber)
 
 | ngx-intl-tel-input | Angular        | ngx-bootstrap |
-| ------------------ |----------------| ------------- |
-| 3.x.x              | 9.x.x - 14.x.x | >= 6.0.0      |
+|--------------------|----------------|---------------|
+| 17.x.x             | 17.x.x         | 12.x.x        |
+| 16.x.x             | 16.x.x         | 11.x.x        |
+| 3.x.x              | 9.x.x - 14.x.x | \>= 6.0.0     |
 | 2.x.x              | 8.x.x - 9.1.x  | 5.6.x         |
 
 ## Installation
 
 ### Install Dependencies
 
-`$ npm install intl-tel-input@17.0.3 --save`
+`$ npm install intl-tel-input@19 --save`
 
 `$ npm install google-libphonenumber --save`
 
@@ -52,7 +54,7 @@ to **angular.json** styles array:
 
 ### Install This Library
 
-`$ npm install ngx-intl-tel-input --save`
+`$ npm install @justin-s/ngx-intl-tel-input --save`
 
 ## Usage
 
